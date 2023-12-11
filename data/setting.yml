@@ -1,0 +1,14 @@
+db_config:
+  -
+    "name": "数据库信息"
+    # host: 数据库服务器地址
+    "host": "192.168.0.218"
+    # port: 端口
+    "port": "3306"
+    # user: 登录用户名
+    "user": "root"
+    # password: 密码
+    "password": "!qaz2wsx"
+    # database: 数据库名称
+    "database": "zhengshiku"
+    "charset": "utf8"
