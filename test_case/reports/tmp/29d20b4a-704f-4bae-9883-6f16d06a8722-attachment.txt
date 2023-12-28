@@ -1,0 +1,2 @@
+INFO     root:test_sql.py:19 向数据库插入数据
+INFO     root:test_sql.py:22 ('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', None, None, Decimal('2'), None, None, None, None, datetime.datetime(2023, 12, 15, 14, 35, 55), None, None)

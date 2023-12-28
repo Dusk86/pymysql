@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Dec 11 12:46:47 CST 2023","Mon Dec 11 12:46:47 CST 2023","75","test_case","test_sql","Testconnect","","","删除一条数据",""
+"passed","Wed Dec 27 15:03:28 CST 2023","Wed Dec 27 15:03:28 CST 2023","30","test_case","test_sql","Testconnect","","","新增一条数据",""

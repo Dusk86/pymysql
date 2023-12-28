@@ -1,0 +1,12 @@
+2023-12-27 12:56:25,077 -test_sql.py:11 -Testconnect -[INFO] ---------------------第一条用例------------------------------
+2023-12-27 12:56:25,144 -test_sql.py:19 -test_add -[INFO] -向数据库插入数据
+2023-12-27 12:56:25,144 -test_sql.py:19 -test_add -[INFO] -向数据库插入数据
+2023-12-27 12:56:25,148 -test_sql.py:22 -test_add -[INFO] -('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', None, None, Decimal('2'), None, None, None, None, datetime.datetime(2023, 12, 15, 14, 35, 55), None, None)
+2023-12-27 12:56:25,148 -test_sql.py:22 -test_add -[INFO] -('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', None, None, Decimal('2'), None, None, None, None, datetime.datetime(2023, 12, 15, 14, 35, 55), None, None)
+2023-12-27 12:56:25,148 -test_sql.py:22 -test_add -[INFO] -('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', None, None, Decimal('2'), None, None, None, None, datetime.datetime(2023, 12, 15, 14, 35, 55), None, None)
+2023-12-27 13:29:09,775 -test_sql.py:11 -Testconnect -[INFO] ---------------------第一条用例------------------------------
+2023-12-27 13:29:09,795 -test_sql.py:19 -test_add -[INFO] -向数据库插入数据
+2023-12-27 13:29:09,796 -test_sql.py:22 -test_add -[INFO] -('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', None, None, Decimal('2'), None, None, None, None, datetime.datetime(2023, 12, 15, 14, 35, 55), None, None)
+2023-12-27 15:03:28,650 -test_sql.py:11 -Testconnect -[INFO] ---------------------第一条用例------------------------------
+2023-12-27 15:03:28,681 -test_sql.py:19 -test_add -[INFO] -向数据库插入数据
+2023-12-27 15:03:28,683 -test_sql.py:22 -test_add -[INFO] -('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', None, None, Decimal('2'), None, None, None, None, datetime.datetime(2023, 12, 15, 14, 35, 55), None, None)

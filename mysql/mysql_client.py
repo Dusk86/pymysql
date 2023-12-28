@@ -74,7 +74,7 @@ class Mysqldb:
             self.cursor.execute(sql)
             # 提交
             self.conn.commit()
-            print('提交成功')
+            # print('提交成功')
         except Exception as e:
             print('提交失败', e)
             # 失败后需要回滚
