@@ -6,7 +6,7 @@ import pymysql
     user : 登录用户名
     password : 密码
     database : 数据库名称
-    port : 数据库连接端口，默认为3306时刻不填写。
+    port : 数据库连接端口，默认为3306时可不填写。
     charset : 数据库编码，一般设置为utf8
 """
 """

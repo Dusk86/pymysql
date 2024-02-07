@@ -16,12 +16,14 @@ class Testconnect:
                                             "update_date) "
                                             "values('09d62332ba088e85987c3e3e9e4ef23f', '图书馆(python添加)', 2, '2023-12-15 "
                                             "14:35:55')")
-            Log().info('向数据库插入数据')
+            Log().info('向数据库插入的数据')
             with allure.step('是否添加成功'):
                 select = my_db.select_one("select * from bas_building_info_t where building_name = '图书馆(python添加)'")
                 Log().info(select)
                 # print('控制台打印--------------------------------------', select)
                 # Assertutil().assert_in_body(select, commit_data)
+                Log().info('数据是否添加成功')
+                assert select, '新增数据成功'
 
     # @allure.title('新增多条数据')
     # def test_adds(self):
